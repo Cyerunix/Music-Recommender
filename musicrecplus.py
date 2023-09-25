@@ -1,6 +1,4 @@
 '''
-I pledge my honor that I have abided by the Stevens Honor System.
-
 Authors: Aidan Ouckama, Cameron Marotti, Michael Buzzetta
 
     Takes in an input for username and stores music artist
@@ -9,7 +7,6 @@ Authors: Aidan Ouckama, Cameron Marotti, Michael Buzzetta
     with the most similar artist preferences.
 
 12/2/22
-CS 115
 '''
 
 # current user preference
